@@ -1,4 +1,4 @@
-<h2> Hi there 👋 I'm Saahil.</h2>
+<h2> Hey, I'm Saahil 👋</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -9,6 +9,8 @@
 - ✍️ &nbsp; Enjoy volunteering during my free time.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
+
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/simpleicons.svg" />
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
