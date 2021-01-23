@@ -8,7 +8,7 @@
 🌱 &nbsp; Learning more about Full-Stack Development. <br/>
 ✍️ &nbsp; Enjoy volunteering during my free time. <br/>
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;Languages & Technologies</h3>
 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg" /> &nbsp; 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/git.svg" /> &nbsp;
