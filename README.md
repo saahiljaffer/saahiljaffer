@@ -11,19 +11,20 @@
 <h3> 🛠 &nbsp;Languages & Technologies</h3>
 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg" /> &nbsp; 
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" /> &nbsp; 
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/cplusplus.svg" /> &nbsp; 
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg" /> &nbsp; 
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/c.svg" /> &nbsp; 
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" /> &nbsp; 
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/sqlite.svg" /> &nbsp; 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/git.svg" /> &nbsp;
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linux.svg" /> &nbsp; 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/selenium.svg" /> &nbsp; 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/jirasoftware.svg" /> &nbsp; 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/sqlite.svg" /> &nbsp; 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/latex.svg" /> &nbsp; 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/flutter.svg" /> &nbsp; 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/raspberrypi.svg" /> &nbsp; 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/arduino.svg" /> &nbsp; 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" /> &nbsp; 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/cplusplus.svg" /> &nbsp; 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" /> &nbsp; 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg" /> &nbsp; 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/php.svg" /> &nbsp; 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mysql.svg" /> &nbsp; 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/lua.svg" /> &nbsp; 
