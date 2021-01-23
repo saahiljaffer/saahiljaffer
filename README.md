@@ -41,10 +41,5 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" ahref="mailto:saahil.jaffer@uwaterloo.ca" /> &nbsp; 
-
-
-<p align="center">
-<a href="https://www.saahiljaffer.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.saahiljaffer.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/saahiljaffer/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Saahil%20Jaffer-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:saahil.jaffer@uwaterloo.ca"><img alt="Email" src="https://img.shields.io/badge/Email-saahil.jaffer@uwaterloo.ca-blue?style=flat-square&logo=gmail"></a>
-</p>
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" ahref="https://www.linkedin.com/in/saahiljaffer/" /> &nbsp; 
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" ahref="https://www.saahiljaffer.com/" /> &nbsp; 
