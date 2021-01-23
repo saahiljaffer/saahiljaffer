@@ -32,8 +32,8 @@
 <br/>
 
 <a href="https://github.com/saahiljaffer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saahiljaffer&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saahiljaffer&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saahiljaffer&count_private=true&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saahiljaffer&theme=dracula&layout=compact" />
 </a>
 
 <br/>
