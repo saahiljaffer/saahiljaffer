@@ -2,11 +2,10 @@
 
 <h3> 👨🏽‍💻 &nbsp;About Me </h3>
 
-🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks. <br/>
+🤔 &nbsp; Creating exciting projects while exploring new technologies. <br/>
 🎓 &nbsp; Studying Computer Science at University of Waterloo. <br/>
 💼 &nbsp; Seeking Spring 2021 Internship Opportunities. <br/>
 🌱 &nbsp; Learning more about Full-Stack Development. <br/>
-✍️ &nbsp; Enjoy volunteering during my free time. <br/>
 
 <h3> 🛠 &nbsp;Languages & Technologies</h3>
 
