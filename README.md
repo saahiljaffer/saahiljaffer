@@ -1,4 +1,4 @@
-<h2> Hey, I'm Saahil 👋🏽</h2>
+## Hey, I'm [Saahil](https://saahiljaffer.com) 👋🏽
 
 <h3> 👨🏽‍💻 &nbsp;About Me </h3>
 
@@ -37,9 +37,3 @@
 </a>
 
 <br/>
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" ahref="mailto:saahil.jaffer@uwaterloo.ca" /> &nbsp; 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" ahref="https://www.linkedin.com/in/saahiljaffer/" /> &nbsp; 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/googlechrome.svg" ahref="https://www.saahiljaffer.com/" /> &nbsp; 
