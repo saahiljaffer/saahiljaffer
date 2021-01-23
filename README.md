@@ -42,4 +42,4 @@
 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" ahref="mailto:saahil.jaffer@uwaterloo.ca" /> &nbsp; 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" ahref="https://www.linkedin.com/in/saahiljaffer/" /> &nbsp; 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" ahref="https://www.saahiljaffer.com/" /> &nbsp; 
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/googlechrome.svg" ahref="https://www.saahiljaffer.com/" /> &nbsp; 
