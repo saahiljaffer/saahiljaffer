@@ -1,9 +1,4 @@
-<h2 align="center">Hey, I'm Saahil! 👋🏽</h2>
-<p align="center">
-  <a href="https://saahiljaffer.com">Website</a> •
-  <a href="https://linkedin.com/in/saahiljaffer">LinkedIn</a> •
-  <a href="mailto:"saahil.jaffer@uwaterloo.ca">Email</a>
-</p>
+<h2>Hey, I'm Saahil! 👋🏽</h2>
 
 <h3> 👨🏽‍💻 &nbsp;About Me </h3>
 
