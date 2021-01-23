@@ -14,7 +14,7 @@
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/git.svg" /> &nbsp;
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linux.svg" /> &nbsp; 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/selenium.svg" /> &nbsp; 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/jira.svg" /> &nbsp; 
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/jirasoftware.svg" /> &nbsp; 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/sqlite.svg" /> &nbsp; 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/latex.svg" /> &nbsp; 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/flutter.svg" /> &nbsp; 
