@@ -10,10 +10,10 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/git.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linux.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/selenium.svg" />
+<code><img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg" /></code>
+<code><img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/git.svg" /></code>
+<code><img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linux.svg" /></code>
+<img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/selenium.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/jira.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/sqlite.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/latex.svg" />
