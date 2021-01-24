@@ -14,7 +14,7 @@
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/node-dot-js.svg" /> &nbsp; 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/express.svg" /> &nbsp; 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/docker.svg" /> &nbsp; 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/aws.svg" /> &nbsp; 
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/amazonaws.svg" /> &nbsp; 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/cplusplus.svg" /> &nbsp; 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg" /> &nbsp; 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/c.svg" /> &nbsp; 
