@@ -21,16 +21,9 @@
 <img height="32" width="32" title="C" alt="C" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/c.svg" /> &nbsp; 
 <img height="32" width="32" title="Python" alt="Python" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" /> &nbsp; 
 <img height="32" width="32" title="SQLite" alt="SQLite" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/sqlite.svg" /> &nbsp; 
-<img height="32" width="32" title="Git" alt="Git" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/git.svg" /> &nbsp;
-<img height="32" width="32" title="Selenium" alt="Selenium" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/selenium.svg" /> &nbsp; 
-<img height="32" width="32" title="Jira" alt="Jira" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/jirasoftware.svg" /> &nbsp; 
-<img height="32" width="32" title="LaTeX" alt="LaTeX" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/latex.svg" /> &nbsp; 
-<img height="32" width="32" title="Flutter" alt="Flutter" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/flutter.svg" /> &nbsp; 
 <img height="32" width="32" title="Raspberry Pi" alt="Raspberry Pi" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/raspberrypi.svg" /> &nbsp; 
-<img height="32" width="32" title="Arduino" alt="Arduino" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/arduino.svg" /> &nbsp; 
 <img height="32" width="32" title="PHP" alt="PHP" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/php.svg" /> &nbsp; 
 <img height="32" width="32" title="SQL" alt="SQL" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mysql.svg" /> &nbsp; 
-<img height="32" width="32" title="Bash" alt="Bash" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gnubash.svg" /> &nbsp; 
 
 <br/>
 
