@@ -2,10 +2,10 @@
 
 <h3> 👨🏽‍💻 &nbsp;About Me </h3>
 
-🤔 &nbsp; Creating exciting projects while exploring new technologies. <br/>
+🤔 &nbsp; Working on an exciting new volunteer portal. <br/>
 🎓 &nbsp; Studying Computer Science at University of Waterloo. <br/>
 💼 &nbsp; Seeking Spring 2021 Internship Opportunities. <br/>
-🌱 &nbsp; Learning more about Full-Stack Development. <br/>
+🌱 &nbsp; Learning more about Frontend and Fullstack Development. <br/>
 
 <h3> 🛠 &nbsp;Languages & Technologies</h3>
 
@@ -14,14 +14,12 @@
 <img height="32" width="32" title="Node.js" alt="Node.js" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/node-dot-js.svg" /> &nbsp; 
 <img height="32" width="32" title="Express.js" alt="Express.js" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/express.svg" /> &nbsp; 
 <img height="32" width="32" title="MongoDB" alt="MongoDB" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mongodb.svg" /> &nbsp; 
-<img height="32" width="32" title="Docker" alt="Docker" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/docker.svg" /> &nbsp; 
-<img height="32" width="32" title="AWS" alt="AWS" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/amazonaws.svg" /> &nbsp; 
+<img height="32" width="32" title="Firebase" alt="Firebase" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/firebase.svg" /> &nbsp; 
 <img height="32" width="32" title="C++" alt="C++" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/cplusplus.svg" /> &nbsp; 
 <img height="32" width="32" title="Java" alt="Java" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg" /> &nbsp; 
 <img height="32" width="32" title="C" alt="C" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/c.svg" /> &nbsp; 
 <img height="32" width="32" title="Python" alt="Python" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" /> &nbsp; 
 <img height="32" width="32" title="SQLite" alt="SQLite" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/sqlite.svg" /> &nbsp; 
-<img height="32" width="32" title="Raspberry Pi" alt="Raspberry Pi" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/raspberrypi.svg" /> &nbsp; 
 <img height="32" width="32" title="PHP" alt="PHP" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/php.svg" /> &nbsp; 
 <img height="32" width="32" title="SQL" alt="SQL" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mysql.svg" /> &nbsp; 
 
