@@ -1,3 +1,6 @@
-### I build elegant software.
+### Hi, I'm Saahil!
 
-I'm Saahil, a recent graduate from the [University of Waterloo](https://uwaterloo.ca). I've previously worked at several startups, including [Complete](https://complete.so), [TealBook](https://tealbook.com), and [Ritual](https://ritual.co). I'm currently looking for my next opportunity to help take a company from 0 to 1.
+🎓 Computer Science Graduate from [University of Waterloo](https://uwaterloo.ca) <br/>
+⚙️ I use daily: `next.js`, `tailwind.css` <br/>
+🛠️ Previously @ Complete, TealBook, Ritual... <br/>
+💬 `ping` me about anything, especially cool startups
