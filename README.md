@@ -1,6 +1,5 @@
-### Hi, I'm Saahil!
+### Hi, I'm Saahil :)
 
-🎓 Computer Science Graduate from [University of Waterloo](https://uwaterloo.ca) <br/>
-⚙️ I use daily: `next.js`, `tailwind.css` <br/>
-🛠️ Previously @ Complete, TealBook, Ritual... <br/>
-💬 `ping` me about anything, especially cool startups
+🎓 Computer Science Graduate from [uWaterloo](https://uwaterloo.ca) <br/>
+🛠️ Previously @ [Complete](https://complete.so), [TealBook](https://tealbook.com), [Ritual](https://ritual.co) <br/>
+💬 Seeking opportunities to help take a company from 0 to 1
